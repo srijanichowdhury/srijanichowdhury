@@ -18,14 +18,13 @@
 
 ### About Me
 
-Software Engineer with 1.5+ years of experience building scalable enterprise applications and backend systems. Experienced in full-stack development, Salesforce, REST APIs, cloud technologies, and AI-powered enterprise workflows.
+Software Engineer with 1.5+ years of experience building scalable enterprise applications, backend services, and full-stack solutions. Experienced with **Java, Node.js, React, TypeScript, REST APIs, Salesforce, and cloud technologies**, with hands-on experience building AI-powered enterprise workflows.
 
-Currently expanding my expertise in **Python, Generative AI, LLM-powered applications, AI agents, and modern full-stack development** using React, Node.js, and Express to build intelligent, production-ready software.
+Currently focused on **Generative AI, LLM-powered applications, AI agents, and modern full-stack development**, building production-oriented applications with React, Node.js, Python, and AI technologies.
 
-> **Engineering Focus:** Building scalable full-stack applications and intelligent enterprise workflows.
-> **Impact:** Optimized transaction processing by ~30%, improved core test coverage to 85%+, and contributed to 50+ full-stack enhancements across 5 production releases.
-
----
+> **Engineering Focus:** Full-stack development, backend engineering, enterprise applications, and AI-powered software.
+>
+> **Impact:** Reduced transaction processing time by ~30%, improved core test coverage from 74% to 85%+, and contributed to 50+ full-stack enhancements across 5 production releases.
 
 ### Technical Capabilities
 
