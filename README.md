@@ -126,7 +126,6 @@ At PwC, I work across backend services, full-stack development, enterprise workf
 
 ---
 
----
 
 ### 🔭 Currently Exploring
 
