@@ -58,75 +58,61 @@ At PwC, I work across backend services, full-stack development, enterprise workf
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/srijanichowdhury/taskloom">Taskloom — AI Agent Task Runner</a></h4>
-      <p>
-        Full-stack AI agent platform that converts natural-language goals into autonomous
-        multi-step tasks using a custom ReAct state machine.
-      </p>
-      <p>
-        Features real-time execution traces through Socket.IO, OpenAI/Gemini LLM support
-        with automatic failover, web search, HTTP tools, cost tracking, and isolated
-        Docker-based code execution.
-      </p>
-      <p>
-        <b>Stack:</b> Next.js, TypeScript, Node.js, Express, Socket.IO, PostgreSQL,
-        Docker, OpenAI, Gemini
-      </p>
-    </td>
+#### 🤖 [Taskloom — AI Agent Task Runner](https://github.com/srijanichowdhury/taskloom)
 
-```
-<td width="50%" valign="top">
-  <h4>💰 End-to-End Financial Processing Platform</h4>
-  <p>
-    Full-stack enterprise platform built with React.js, Node.js, JavaScript,
-    and REST APIs for complex KYC, risk assessment, and document management workflows.
-  </p>
-  <p>
-    <b>Impact:</b> Streamlined the processing pipeline and reduced average client
-    approval turnaround time from 5 hours to 3 hours for 1,000+ daily internal users.
-  </p>
-</td>
-```
+> A full-stack AI agent platform that converts natural-language goals into autonomous multi-step tasks using a custom ReAct state machine.
 
-  </tr>
+**Highlights**
+- 🔄 Custom ReAct agent loop for autonomous task planning and execution
+- ⚡ Real-time execution traces using Socket.IO
+- 🧠 OpenAI + Google Gemini with automatic LLM failover
+- 🔎 Web search, HTTP requests, and sandboxed code execution
+- 🐳 Isolated Docker-based code execution environment
+- 💰 Per-step and per-run token usage and cost tracking
 
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ Scalable Enterprise Configuration System</h4>
-      <p>
-        Metadata-driven backend configuration system supporting 20+ complex business
-        workflows while eliminating hardcoded business logic.
-      </p>
-      <p>
-        <b>Impact:</b> Reduced onboarding time for new product integrations by 40%
-        and implemented asynchronous consent and document generation workflows.
-      </p>
-    </td>
-
-```
-<td width="50%" valign="top">
-  <h4>🧠 AI & Intelligent Applications</h4>
-  <p>
-    Exploring Generative AI, LLM-powered applications, AI agents, and
-    intelligent enterprise workflows, with hands-on experience through
-    Taskloom and Salesforce Agentforce.
-  </p>
-  <p>
-    <b>Focus:</b> LLM integration, agentic workflows, automation, and
-    production-ready AI applications.
-  </p>
-</td>
-```
-
-  </tr>
-</table>
+**Tech:** `Next.js` `TypeScript` `Node.js` `Express` `Socket.IO` `PostgreSQL` `Docker` `OpenAI` `Gemini`
 
 ---
+
+#### 💰 End-to-End Financial Processing Platform
+
+> Full-stack enterprise platform for KYC, risk assessment, and document management workflows.
+
+**Highlights**
+- Built reusable frontend components and scalable backend services
+- Streamlined complex full-stack processing workflows
+- Optimized DOM manipulation and client-side processing
+- Reduced average approval turnaround time from **5 hours → 3 hours**
+- Supported **1,000+ daily internal users**
+
+**Tech:** `React.js` `Node.js` `JavaScript` `REST APIs`
+
+---
+
+#### ⚙️ Scalable Enterprise Configuration System
+
+> Metadata-driven backend configuration system designed to support complex enterprise workflows without hardcoded business logic.
+
+**Highlights**
+- Supported **20+ complex business workflows**
+- Designed reusable configuration-driven architecture
+- Reduced onboarding time for new product integrations by **40%**
+- Implemented asynchronous consent and document generation workflows
+- Achieved **90%+ test coverage**
+
+**Tech:** `Java` `Spring Boot` `SQL` `Cloud Architecture`
+
+---
+
+#### 🧠 AI & Intelligent Applications
+
+> Exploring the intersection of software engineering and artificial intelligence through LLM-powered applications and enterprise AI.
+
+**Focus Areas**
+
+`Generative AI` · `LLM Applications` · `AI Agents` · `Agentic Workflows` · `AI Automation` · `Salesforce Agentforce`
 
 ### Certifications & Achievements
 
