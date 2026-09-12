@@ -90,18 +90,19 @@ At PwC, I work across backend services, full-stack development, enterprise workf
 
 ---
 
-#### ⚙️ Scalable Enterprise Configuration System
+#### ⚙️ Salesforce Enterprise Configuration Platform
 
-> Metadata-driven backend configuration system designed to support complex enterprise workflows without hardcoded business logic.
+> Enterprise Salesforce solution designed to support configurable business workflows while reducing dependency on hardcoded business logic.
 
 **Highlights**
-- Supported **20+ complex business workflows**
-- Designed reusable configuration-driven architecture
-- Reduced onboarding time for new product integrations by **40%**
-- Implemented asynchronous consent and document generation workflows
-- Achieved **90%+ test coverage**
+- ⚡ Developed scalable Salesforce applications using **Apex** and **Lightning Web Components (LWC)**
+- 🎨 Built dynamic user experiences using **LWC, Lightning Aura Components, and Visualforce**
+- 🔧 Designed configurable and reusable solutions to support **20+ complex business workflows**
+- 🔄 Implemented asynchronous consent and document generation workflows
+- 🤖 Worked with **Salesforce Agentforce** and AI-powered capabilities to automate enterprise workflows
+- 🧪 Maintained **90%+ test coverage** to ensure reliability and production readiness
 
-**Tech:** `Java` `Spring Boot` `SQL` `Cloud Architecture`
+**Tech:** `Apex` `LWC` `Lightning Aura Components` `Visualforce` `SOQL` `SOSL` `Salesforce APIs` `REST APIs` `Agentforce`
 
 ---
 
