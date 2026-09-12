@@ -126,27 +126,11 @@ At PwC, I work across backend services, full-stack development, enterprise workf
 
 ---
 
-### Currently Learning
-
-```text
-Generative AI          ███████████████████░░
-LLM Applications       ██████████████████░░░
-AI Agents              █████████████████░░░░
-Full-Stack Development ███████████████████░
-System Design          ███████████████░░░░░░
-```
-
 ---
 
-### GitHub Stats
+### 🔭 Currently Exploring
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=srijanichowdhury&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanichowdhury&layout=compact&theme=transparent&hide_border=true" height="170" />
-
-</div>
+`Generative AI` · `LLM Applications` · `AI Agents` · `Agentic Workflows` · `Full-Stack Development` · `System Design`
 
 ---
 
